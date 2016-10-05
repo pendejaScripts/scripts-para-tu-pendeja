@@ -1,4 +1,5 @@
 #!/bin/bash
+#Simula un borrado de la raiz
 echo $USER"@"$HOSTNAME":~$ cd /"
 sleep 1
 echo  $USER'@'$HOSTNAME':/$'
