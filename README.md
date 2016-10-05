@@ -1,1 +1,1 @@
-# scripts-para-tu-pendeja
+# Scripts para poner en ~.bashrc 
