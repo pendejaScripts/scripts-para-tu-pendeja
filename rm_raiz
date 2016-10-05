@@ -1,0 +1,7 @@
+#!/bin/bash
+echo $USER"@"$HOSTNAME":~$ cd /"
+sleep 1
+echo  $USER'@'$HOSTNAME':/$'
+sleep 1
+echo  $USER'@'$HOSTNAME':/$ rm -rf *'
+sleep 15
